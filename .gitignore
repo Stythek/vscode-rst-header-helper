@@ -1,6 +1,11 @@
 out
+dist
 node_modules
-test.rst
 .vscode-test/
 .vscode/tags
 .vscode/settings.json
+*.vsix
+
+TODO
+
+test.rst
